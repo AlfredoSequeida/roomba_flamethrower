@@ -8,15 +8,10 @@ r = 10;
 top_z = 16;
 top_r = 40/2;
 
-difference(){
 translate([0,0,top_z + y])
 rotate([180,0,0])
 cap();
 
-translate([0,0,top_z + y -0.5])
-linear_extrude(3)
-text("2.8", size=9, halign="center", valign="center");
-}
 module cap(){
     difference(){
         hull(){
