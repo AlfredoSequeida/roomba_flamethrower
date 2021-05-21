@@ -20,7 +20,7 @@ sudo sh setup.sh
 In addition, if you want to set up the program to run on boot for a better user experience. You can use `crontab` to set up a cronjob for the intended user. As an example for the default `pi` user.
 
 ```
-crontab -e -u pi
+crontab -u pi -e
 ```
 
 Then run the script on boot by adding the following line to the file.
