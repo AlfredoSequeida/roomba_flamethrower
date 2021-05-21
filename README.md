@@ -112,4 +112,4 @@ The lighter assembly holds the 12kg servo and the arc lighter. The servo is held
 ## Wiring
 To wire everything together, refer to the following schematic:
 
-![schematic]()
+![schematic](https://raw.githubusercontent.com/AlfredoSequeida/roomba_flamethrower/2f7eaa32ffcb4d6fdb0e34170aeb788799d9aadf/assets/schematic.svg)
