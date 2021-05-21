@@ -1,4 +1,4 @@
-# Roomba FlameThrower
+# Roomba Flamethrower
 [Watch the video here](https://youtube.com/alfredosequeida)
 
 This repo contains all of the code, schematics, and 3d models for the Roomba Flame Thrower project.
@@ -63,7 +63,7 @@ trust XX:XX:XX:XX:XX:XX
 ### Controlls
 By default, these are the control mappings for the Xbox One controller.
 
-![controll mappings]()
+![controll mappings](https://raw.githubusercontent.com/AlfredoSequeida/roomba_flamethrower/main/assets/xbox_one_controller.png)
 
 If you want to change them, you can change the conditional statements in `main.py` in the `main()` function, which are found inside the for loop.
 
@@ -93,15 +93,15 @@ All of the parts were printed using 10% infill with a 0.28mm layer height. The b
 ### Assembly
 Besides the Roomba part of the build, the flame thrower part of the build is centered around the butane bottle.
 
-The [bottle stand]() can be used to attach the butane bottle to the Roomba using an adhesive. An option like Hot Glue can allow you to easily remove it later by heating the glue back up.
+The [bottle stand](https://github.com/AlfredoSequeida/roomba_flamethrower/blob/main/models/bottle_stand.stl) can be used to attach the butane bottle to the Roomba using an adhesive. An option like Hot Glue can allow you to easily remove it later by heating the glue back up.
 
-Attached to the bottle stand you cand you can use string or rope along with the provided [hooks]() to latter hold down the bottle adapter when the butane servo uses a downward force to spray the bottle. 
+Attached to the bottle stand you cand you can use string or rope along with the provided [hooks](https://github.com/AlfredoSequeida/roomba_flamethrower/blob/main/models/hook.stl) to latter hold down the bottle adapter when the butane servo uses a downward force to spray the bottle. 
 
-The [bottle adapter]() holds the two 35kg servos using the provided hardware, The butane servo uses the smaller plastic propeller with an M2.5 standoff through one of the holes, which aids in pressing down the [cap of the butane bottle]() and the lighter assembly servo uses the larger plastic propeller with two screws for holding down the servos attached to the [lighter assembly]().
+The [bottle adapter](https://github.com/AlfredoSequeida/roomba_flamethrower/blob/main/models/bottle_adapter.stl) holds the two 35kg servos using the provided hardware, The butane servo uses the smaller plastic propeller with an M2.5 standoff through one of the holes, which aids in pressing down the [cap of the butane bottle](https://github.com/AlfredoSequeida/roomba_flamethrower/blob/main/models/cap.stl) and the lighter assembly servo uses the larger plastic propeller with two screws for holding down the servos attached to the [lighter assembly](https://github.com/AlfredoSequeida/roomba_flamethrower/blob/main/models/lighter_assembly.stl).
 
 ![bottle adapter]()
 
-Attached to the back portion of the bottle adapter is the [Raspberry Pi Zero]() base. This base is set up with four M2.5 standoffs using screws on the underside. This is why the base has larger 4mm cylindrical cutouts on the underside. This provides a flush base that can be glued to the bottle adapter.
+Attached to the back portion of the bottle adapter is the [Raspberry Pi Zero base](https://github.com/AlfredoSequeida/roomba_flamethrower/blob/main/models/rpi_zero_base.stl). This base is set up with four M2.5 standoffs using screws on the underside. This is why the base has larger 4mm cylindrical cutouts on the underside. This provides a flush base that can be glued to the bottle adapter.
 
 ![raspberry pi base]()
 
