@@ -70,7 +70,7 @@ If you want to change them, you can change the conditional statements in `main.p
 ## Build
 To build this project, the following parts were used:
 - [(1) Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
--[(1) Micro USB Male to USB Female OTG Adapter](https://www.amazon.com/Ksmile®-Female-Adapter-SamSung-tablets/dp/B01C6032G0)
+- [(1) Micro USB Male to USB Female OTG Adapter](https://www.amazon.com/Ksmile®-Female-Adapter-SamSung-tablets/dp/B01C6032G0)
 - (1) Xbox One Bluetooth Controller (1708)
 - (1) Irobot Roomba 770
 - [(1) Irbot Communication Cable for Create® 2](https://store.irobot.com/default/parts-and-accessories/create-accessories/communication-cable-for-create-2/4466502.html)
