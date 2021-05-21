@@ -74,8 +74,8 @@ To build this project, the following parts were used:
 - (1) Xbox One Bluetooth Controller (1708)
 - (1) Irobot Roomba 770
 - [(1) Irbot Communication Cable for Create® 2](https://store.irobot.com/default/parts-and-accessories/create-accessories/communication-cable-for-create-2/4466502.html)
-- [(2) 35KG/CM servos](https://www.amazon.com/ZOSKAY-Coreless-Digital-Stainless-arduino/dp/B07S9XZYN2)
-- [(1) 12KG/CM servo](https://www.amazon.com/4-Pack-MG996R-Torque-Digital-Helicopter/dp/B07MFK266B)
+- [(2) 35KG-CM servos](https://www.amazon.com/ZOSKAY-Coreless-Digital-Stainless-arduino/dp/B07S9XZYN2)
+- [(1) 12KG-CM servo](https://www.amazon.com/4-Pack-MG996R-Torque-Digital-Helicopter/dp/B07MFK266B)
 - [(1) M2.5 brass stanoff kit](https://www.amazon.com/LBY-Multi-function-Combination-Screwdriver-Green/dp/B07GK6812D)
 - [Neon 7X Refined Butane Gas Pack](https://www.amazon.com/Neon-Refined-Butane-300ml-Pack/dp/B072FR3LT2)
 - [(1) Arc Lighter](https://www.amazon.com/lcfun-Waterproof-Windproof-Rechargeable-Flameless-Plasma-Camouflage/dp/B07GCHLDWR)
