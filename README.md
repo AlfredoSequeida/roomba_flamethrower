@@ -1,5 +1,5 @@
 # Roomba Flamethrower
-[Watch the video here](https://youtube.com/alfredosequeida)
+[Watch the video here](https://youtu.be/nNa-5zJv5F0)
 
 ![demo](https://i.imgur.com/8SH6XPO.gif)
 
