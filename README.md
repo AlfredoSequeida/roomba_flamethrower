@@ -1,7 +1,7 @@
 # Roomba Flamethrower
 [Watch the video here](https://youtu.be/nNa-5zJv5F0)
 
-![demo](https://i.imgur.com/IuwA3W7.gif)
+![demo](https://imgur.com/qBwpIig.gif)
 
 This repo contains all of the code, schematics, and 3d models for the Roomba Flame Thrower project.
 
