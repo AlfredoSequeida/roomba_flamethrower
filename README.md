@@ -3,7 +3,7 @@
 
 ![demo](https://imgur.com/qBwpIig.gif)
 
-This repo contains all of the code, schematics, and 3d models for the Roomba Flame Thrower project.
+This repo contains all of the code, schematics, and 3d models for the Roomba Flamethrower project.
 
 ## Setup
 This project uses a Raspberry pi Zero W running [Raspberry Pi OS Lite](https://www.raspberrypi.org/software/operating-systems/) as the "brains" of the build. Python 3.5 or newer is required to run the software.
